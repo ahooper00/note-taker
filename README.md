@@ -19,6 +19,8 @@ MIT
 ![MIT](https://badgen.net//github/license/micromatch/micromatch) (https://opensource.org/licenses/MIT)
 ## GitHub
 [Note-Taker](https://github.com/ahooper00/note-taker)
+## Heroku
+[Deployed-application](https://sleepy-reef-80378.herokuapp.com/)
 ## Questions
 * [My-github](ahooper00@github.com)
 * ahooper97@gmail.com
